@@ -1,0 +1,63 @@
+body {
+    width: 1728px;
+    height: 1117px;
+    background-color: #111315;
+}
+
+
+#top_div {
+    display: flex;
+    color: #FFF;
+}
+
+#menu_side {
+    width: 401px;
+    height: 1117px;
+}
+
+input {
+    width: 812px;
+    height: 46px;
+    border-radius: 5px;
+    background-color: #404041;
+    font-size: 16px;
+    color: #878787;
+    justify-content: space-between;
+
+}
+
+
+#signbtn {
+    height: 46px;
+    width: 176px;
+    background-color: #FF2424;
+    color: #F5F5F5;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 5px;
+}
+
+#loginbtn {
+
+    height: 46px;
+    width: 176px;
+    background-color: #FF2424;
+    color: #F5F5F5;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 5px;
+
+}
+
+#food_add {
+
+    width: 1000px;
+    height: 463px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-top: 160px;
+}
